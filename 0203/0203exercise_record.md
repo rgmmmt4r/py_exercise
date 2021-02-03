@@ -1,17 +1,8 @@
+## 基本邏輯
+
+
 ```python
 2<3
-```
-
-
-
-
-    True
-
-
-
-
-```python
-2<=3
 ```
 
 
@@ -50,6 +41,8 @@ a = 40
 
 
 
+## while 迴圈
+
 
 ```python
 message = ""
@@ -66,6 +59,8 @@ while message != "bye" :
     拍拍
 
 
+## format
+
 
 ```python
 str = input("美元價格 >>")
@@ -76,6 +71,23 @@ print("{} 美元合台幣{}元".format(str,str*27.5))
     美元價格 >>12
     12.0 美元合台幣330.0元
 
+
+
+```python
+name = "嘉佑"
+place = "台北"
+print("來自{}的{}".format(place,name))
+```
+
+    來自台北的嘉佑
+
+
+可以用{} 先空掉要填入的東西，之後再用 .format(place,name) 填入 {}要放入的東西
+
+## function
+分別用return 和 print
+有return 是回傳值
+沒有return 用 print 是直接印
 
 
 ```python
@@ -122,15 +134,3 @@ b
 ```
 
 在這邊不會印出b，因為b 本身沒有數值！！
-
-
-```python
-name = "嘉佑"
-place = "台北"
-print("來自{}的{}".format(place,name))
-```
-
-    來自台北的嘉佑
-
-
-可以用{} 先空掉要填入的東西，之後再用 .format(place,name) 填入 {}要放入的東西

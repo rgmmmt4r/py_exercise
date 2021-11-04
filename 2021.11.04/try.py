@@ -16,8 +16,7 @@ for i in range(0,len(nums_list)-1):
         #print("j: " + str(j) + " ")
         if nums_list[i] + nums_list[j] == target:
             answer = [i , j]
-            break
-        else:
-            j = j + 1
-            continue
+
+
+
 print(answer)

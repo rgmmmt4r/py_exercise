@@ -8,8 +8,13 @@ while(True):
         break
     except ValueError:
         print("您輸入的不是整數，請重新輸入")
+while(True):
+    try:
+        target = int(input("請輸入target:"))
+        break
+    except ValueError:
+        print("您輸入的不是整數，請重新輸入")
 
-target = int(input("請輸入target:"))
 answer = []
 
 #用雙層for迴圈窮舉找出答案

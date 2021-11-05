@@ -13,4 +13,8 @@ https://github.com/rgmmmt4r/py_exercise/blob/main/0214/Array的使用/Array的�
 two sum:  
 https://leetcode.com/problems/two-sum/  
 https://github.com/rgmmmt4r/py_exercise/blob/main/2021.11.04/try.py  
+1105:
+pascals-triangle    
+https://leetcode.com/problems/pascals-triangle/    
+https://github.com/rgmmmt4r/py_exercise/blob/main/2021.11.05/main.py    
 

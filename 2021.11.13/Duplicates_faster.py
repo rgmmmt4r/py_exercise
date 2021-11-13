@@ -13,7 +13,6 @@ class Solution:
                 nums.remove(nums[i])
             else:
                 i = i + 1
-            if i ==  n - 1 - dupli:
-                return n - dupli
+
 
         return n - dupli

@@ -20,10 +20,8 @@ https://github.com/rgmmmt4r/py_exercise/blob/main/2021.11.05/main.py
 1108:  
 https://leetcode.com/problems/longest-common-prefix/  
 https://github.com/rgmmmt4r/py_exercise/blob/main/2021.11.08/%20Longest_Common_Prefix.py  
-
 https://leetcode.com/problems/roman-to-integer/  
 https://github.com/rgmmmt4r/py_exercise/blob/main/2021.11.08/Roman.py  
-
 https://leetcode.com/problems/palindrome-number/  
 https://github.com/rgmmmt4r/py_exercise/blob/main/2021.11.08/Palindrome.py   
 1113:  

@@ -28,5 +28,5 @@ https://leetcode.com/problems/palindrome-number/
 https://github.com/rgmmmt4r/py_exercise/blob/main/2021.11.08/Palindrome.py  
   
 1113:  
-Remove Duplicates from Sorted Array, Merge Two Sorted Lists,   
+Remove Duplicates from Sorted Array, Merge Two Sorted Lists, Remove Element,  
 

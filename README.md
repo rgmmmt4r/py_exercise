@@ -10,7 +10,7 @@ https://github.com/rgmmmt4r/py_exercise/blob/main/0207/猜數字小遊戲.md
 Array的使用：  
 https://github.com/rgmmmt4r/py_exercise/blob/main/0214/Array的使用/Array的使用.md   
 
-以下是Leetcode 的一些題目：
+以下是Leetcode 的一些題目：  
 1104:
 two sum:  
 https://leetcode.com/problems/two-sum/  

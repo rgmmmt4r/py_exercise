@@ -1,5 +1,3 @@
-from calendar import c
-
 
 class Solution:
     def titleToNumber(self, columnTitle: str) -> int:

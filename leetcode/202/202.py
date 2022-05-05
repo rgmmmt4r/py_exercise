@@ -7,12 +7,13 @@ class Solution:
                 num += int(n[i])**2
             return num
         appearance_set = set()
-        while(calculate(n)!= 1):
-            if calculate(n) not in appearance_set:
-                appearance_set.add(calculate(n))
+        this_round_num = calculate(n)
+        while(this_round_num!= 1):
+            if this_round_num not in appearance_set:
+                appearance_set.add(this_round_num)
             else:
                 return False
-            n = calculate(n)
+            this_round_num = calculate(this_round_num)
         return True
         
 

@@ -2,7 +2,7 @@ class Solution:
     def isPowerOfTwo(self, n: int) -> bool:
         if n == 0:
             return False
-        while n !=0:
+        while  True:
             if n == 1:
                 break
             if n %2 != 0:

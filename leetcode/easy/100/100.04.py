@@ -1,6 +1,6 @@
 class Solution:
     result = True
-    def isSameTree(self, p: Optional[TreeNode], q: Optional[TreeNode]) -> bool:
+    def isSameTree(self, p, q) -> bool:
         
         def inorder_at_the_same_time(p,q):
             if p and q:
